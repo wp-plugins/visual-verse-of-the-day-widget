@@ -35,7 +35,7 @@ Sure, find and edit the file wp-content/plugins/vv-widget/css/vv-widget-styles.c
 
 == Screenshots ==
 
-1. Here is an example:
+Some examples
 
 == Changelog ==
 
