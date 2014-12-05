@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Plugin for adding a widget for [The Visual Verse of the Day](http://visualverse.thecreationspeaks.com/).
+Plugin for adding a widget for The Visual Verse of the Day at http://visualverse.thecreationspeaks.com.
 
 == Description ==
 
