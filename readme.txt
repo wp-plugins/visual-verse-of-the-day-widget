@@ -1,14 +1,13 @@
 === Visual Verse of the Day Widget ===
 Contributors: karl.kranich
 Donate link: http://karl.kranich.org
-Tags: widget
+Tags: widget,Bible,nature,photography,Christian
 Requires at least: 3.0.1
 Tested up to: 4.0.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Daily places a majestic nature photo and Bible verse as a widget on your website.
 Six days a week a new photo and scripture reference will appear from The Visual Verse of the Day at visualverse.thecreationspeaks.com.
 
 == Description ==
