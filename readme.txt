@@ -8,12 +8,21 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Plugin for adding a widget for The Visual Verse of the Day at http://visualverse.thecreationspeaks.com.
+Daily places a majestic nature photo and Bible verse as a widget on your website.
+Six days a week a new photo and scripture reference will appear from The Visual Verse of the Day at visualverse.thecreationspeaks.com.
 
 == Description ==
 
-This plugin adds a widget for [The Visual Verse of the Day](http://visualverse.thecreationspeaks.com/).
-It dynamically grabs the latest image and verse reference.
+[The Visual Verse of the Day](http://visualverse.thecreationspeaks.com/) inspires people through God's Word and His creation. Each day a new thumbnail photograph combined with a 
+Scripture reference appear in a widget area on a site using the plugin. You control the size and widget area the verse and scripture reference appear.
+When someone clicks on the thumbnail they get the full image and verse.
+
+The images come from the outstanding wildlife and landscape photography collection of award-winning outdoor photographer Pasquale R Mingarelli. 
+The Visual Verse of the Day makes a great addition to any Christian website or any site that wants to daily inspire its site visitors.
+
+Pasquale is also a Christian speaker. He speaks on how nature touches us through its majesty, mystery and beauty. H
+is presentations help us to see how nature reveals the glory of God and His attributes. You can view his website here: 
+[www.thecreationspeaks.com](http://www.thecreationspeaks.com).
 
 == Installation ==
 
