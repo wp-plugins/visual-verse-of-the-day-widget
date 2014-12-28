@@ -48,6 +48,9 @@ Sure, find and edit the file wp-content/plugins/vv-widget/css/vv-widget-styles.c
 
 == Changelog ==
 
+= 1.2 =
+Fixed a regular expression that finds the picture caption
+
 = 1.1 =
 Changed text below image from picture title to verse reference.
 
