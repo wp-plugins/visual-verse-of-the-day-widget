@@ -2,7 +2,7 @@
 /**
 Plugin Name: Visual Verse of the Day Widget
 Description: Plugin for adding a widget for the Visual Verse of the Day from http://visualverse.thecreationspeaks.com/
-Version: 1.1
+Version: 1.2
 Author: Karl Kranich
 Author URI: http://karl.kranich.org/visual-verse-widget
 */
@@ -48,7 +48,7 @@ class vv_widget extends WP_Widget {
 
 		preg_match('@<div class="entry-content.*<img .*src="(http://visual\S*\.jpg)"@s', $page_data, $matches);
 		$img_link = $matches[1];
-		preg_match('/<meta name="description" content="([^&]*) &quot/', $page_data, $matches);
+		preg_match('/<meta name="description" content="([^&]*)&quot/', $page_data, $matches);
 		$verse_ref = $matches[1];
 		?>
 	  	<div id="vv-widget" style="width: <?php echo $width; ?>">
