@@ -2,7 +2,7 @@
 /**
 Plugin Name: Visual Verse of the Day Widget
 Description: Plugin for adding a widget for the Visual Verse of the Day from http://visualverse.thecreationspeaks.com/
-Version: 1.2
+Version: 1.3
 Author: Karl Kranich
 Author URI: http://karl.kranich.org/visual-verse-widget
 */
@@ -42,7 +42,7 @@ class vv_widget extends WP_Widget {
 		curl_setopt($ch, CURLOPT_HEADER, 0);
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 		curl_setopt($ch, CURLOPT_URL, $vv_link);
-		curl_setopt($ch, CURLOPT_FOLLOWLOCATION, TRUE);       
+		curl_setopt($ch, CURLOPT_FOLLOWLOCATION, FALSE);       
 		$page_data = curl_exec($ch);
 		curl_close($ch);
 

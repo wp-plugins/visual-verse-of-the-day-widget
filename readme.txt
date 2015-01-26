@@ -48,6 +48,9 @@ Sure, find and edit the file wp-content/plugins/vv-widget/css/vv-widget-styles.c
 
 == Changelog ==
 
+= 1.3 =
+Turned off a php curl option that was causing an error and was not needed
+
 = 1.2 =
 Fixed a regular expression that finds the picture caption
 
